@@ -1,0 +1,5 @@
+- Hi, I’m @tristan-huckabee
+- I’m interested in making cool things with coding.
+- I’m currently learning javascript, sass, php, c, and python.
+- I’m willing to collaborate on almost anything.
+- You can reach me at thuckabee.se@gmail.com, I'll get back to at my earliest convenience.
